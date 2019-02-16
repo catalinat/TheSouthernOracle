@@ -5,4 +5,4 @@
 ## Slays king, ruins town,
 ## And beats high mountain down.
 
-Answer <- "Time"
+Answer <- ""
